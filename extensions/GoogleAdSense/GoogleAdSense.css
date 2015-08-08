@@ -1,0 +1,30 @@
+/* Google AdSense */
+
+.googleSearch {
+	border: 1px solid #eee; /*debug*/
+	padding: 1px;
+	margin: 10px auto; /* centerred on the page  */
+}
+
+.googleAdSenseContent {
+	border: 1px solid #eee; /*debug*/
+	padding: 1px;
+	margin: 10px auto; /* centerred on the page  */
+	background: #fff;
+}
+
+.googleAdSenseVideo {
+	border: 1px solid #eee; /*debug*/
+	padding: 1px;
+	margin: 10px auto; /* centerred on the page  */
+	background: #fff;
+}
+
+
+.googleAdSenseError {
+	border: 1px solid #eee; /*debug*/
+	padding: 3px 5px;
+	margin: 10px auto; /* centerred on the page  */
+	background: #FFCC66;
+}
+
